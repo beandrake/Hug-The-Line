@@ -1,0 +1,9 @@
+*.zip
+
+
+## this will make it so that any directory with these names is ignored
+.metadata/
+.recommenders/
+bin/
+htl-api-documentation/
+JAR generation locations/

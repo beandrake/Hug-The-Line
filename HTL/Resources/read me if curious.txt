@@ -1,0 +1,5 @@
+HTL needs a Resources directory to function.
+
+But if a directory doesn't contain any files, it won't be added to Git.
+
+Hence, this file.
