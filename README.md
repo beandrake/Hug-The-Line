@@ -76,7 +76,7 @@ The Javadoc documentation for the API can be read [here](https://beandrake.com/h
 ## Credits ##
 
 - **Creative Director:** Jason Pace
-- **Producers:** Aina Braxton, Christiana Jugovic, Hannah Kane
+- **Producers:** Aina Braxton, Christina Jugovic, Hannah Kane
 - **Design Leads:** Elliott White, Emmett Scout
 - **Art Lead:** Nathan Evers
 - **Lead Game/API Programmers:** Rachel Horton, Branden Bean Drake, Sandy Chau
