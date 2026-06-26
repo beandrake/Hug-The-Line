@@ -26,7 +26,7 @@ Hug The Line's programming team had two concurrent goals:
 1. Work with the rest of our multidisciplinary team to produce the proof of concept for a game.
 2. Design and implement a Java API that would allow others to easily make similar games.
 
-The API was built on top of a rudimentary Java game engine, and the playable Hug The Line proof of concept was built using the API we created.  We also ended up making some improvements to the core functionality of the game engine, such as adding a visual layering system.
+Pair programming was employed for the majority of development.  The API was built on top of a rudimentary Java game engine, and the playable Hug The Line proof of concept was built using the API we created.  We also ended up making some improvements to the core functionality of the game engine, such as adding a visual layering system.
 
 Both goals were successfully completed.
 
