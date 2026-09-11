@@ -1,6 +1,9 @@
 # Hug The Line
 During my internship at the Digital Future Lab, I worked as part of a small team developing the proof of concept for a new game and a Java API that could be used to make similar games.
 
+<img align="center"  src="https://beandrake.com/resources/img/htl/htl_final.png" alt="An image of the game screen, showing UI elements and critters traveling a path with nearby wizards." />
+<sup>An image of the game screen, showing UI elements and critters traveling a path with nearby wizards.</sup>
+
 ### Table of Contents ###
 - [The Overall Team's Goal](#the-overall-teams-goal)
 - [The Programming Team's Goals](#the-programming-teams-goals)
