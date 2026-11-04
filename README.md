@@ -67,7 +67,7 @@ If you want to play the game, follow these instructions:
 
 6. You'll see a list of folders; unselect `Hug-The-Line`, then click `Finish`.  All of the important directories are now open in the Eclipse IDE under the `Package Explorer` tab.
 
-7. To run the proof of concept of Hug The Line, under `Package Explorer` selet `HugTheLine`, then in Eclipse's menu select `Run` -> `Run`.
+7. To run the proof of concept of Hug The Line, under `Package Explorer` select `HugTheLine`, then in Eclipse's menu select `Run` -> `Run`.
 
 ## Using the API ##
 The UserGames are extremely simple tech demos intended to demonstrate different ways the Tower Defense API can be used.  If you've been able to run Hug The Line per the above instructions, you can use those same steps to highlight one of the `UserGame0` directories and run these demos.
